@@ -3,7 +3,7 @@
 
 Accelerating Agroforestry for a Future Worth Living.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/941131235?h=35be62dce3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Treescape: Accelerate Agroforestry for a Future worth Living](https://hackmd.io/_uploads/BJPTl40-C.png)](https://vimeo.com/941131235?texttrack=en-x-autogen&autoplay=1)
 
 ### Executive Overview
 Treescape is an AI-driven open-source platform revolutionizing regenerative agroforestry design, implementation, and management. With a mission to support planting 1 billion hectares of biodiverse food forests worldwide, Treescape addresses urgent challenges of climate change, soil degradation, and food insecurity while reconnecting people to nature and creating thriving, resilient ecosystems. By harnessing state-of-the-art AI, remote sensing, and ecological modeling, Treescape empowers users to optimize ecological and economic outcomes of agroforestry systems.
