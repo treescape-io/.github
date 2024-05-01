@@ -33,4 +33,4 @@ Treescape is more than a platform; it's a catalyst for transformative change, ai
 Treescape represents a groundbreaking initiative in regenerative agroforestry, offering a scalable, accessible, and innovative approach to environmental restoration and economic development. Through collaborative innovation and a commitment to sustainability, Treescape is not just planting trees but catalyzing a regenerative evolution for a future worth living.
 
 #### Read more
-Check out the [Treescape Extensive Project Overview]([/nZIp0QUmRXe9cI-BZAMe3A](https://hackmd.io/Ev2MiaeYQbOhFQK2cdfZLQ)).
+Check out the [Treescape Extensive Project Overview](https://hackmd.io/@dokkurbob/BkwMEEZe0).
