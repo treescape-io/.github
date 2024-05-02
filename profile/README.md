@@ -8,7 +8,7 @@ Accelerating Agroforestry for a Future Worth Living.
 ### Executive Overview
 Treescape is an AI-driven open-source platform revolutionizing regenerative agroforestry design, implementation, and management. With a mission to support planting 1 billion hectares of biodiverse food forests worldwide, Treescape addresses urgent challenges of climate change, soil degradation, and food insecurity while reconnecting people to nature and creating thriving, resilient ecosystems. By harnessing state-of-the-art AI, remote sensing, and ecological modeling, Treescape empowers users to optimize ecological and economic outcomes of agroforestry systems.
 
-![DALL·E 2024-01-06 17.01.43 - Photorealistic image of a mixed agroforestry system with an array of trees, shrubs, crawlers, and crops in mixed planting. Include humans engaged in v](https://hackmd.io/_uploads/BJiYtxwdT.jpg)
+![Treescape: Vision](https://hackmd.io/_uploads/ryvkuJ-MR.jpg)
 
 ### The Platform
 Treescape integrates satellite imagery, ecological modeling, and machine learning, empowering users from smallholder farmers to large-scale land managers with tools to optimize agroforestry systems. Its open-source foundation fosters a collaborative ecosystem of tech studios, NGOs, and professionals, enhancing versatility and responsiveness. Key AI techniques include multimodal foundational LLM agents, genetic algorithms for plant placement, land zoning with Segment Anything Models (SAM) and more.
@@ -27,10 +27,13 @@ Employing cutting-edge AI and geospatial analysis built on robust open-source te
 ### Global Impact and Visionary Goals
 Treescape is more than a platform; it's a catalyst for transformative change, aiming to restore ecosystems, enhance biodiversity, and secure future generations' well-being. By aligning economic growth with ecological and societal benefits, Treescape sets a new standard for sustainable development. It invites diverse stakeholders to join in realizing the vision of planting 1 billion hectares of trees, fostering a global movement towards a more regenerative and equitable world.
 
-![DALL·E 2024-01-06 17.24.28 - Photorealistic image of a tablet screen showing a 2D agroforestry design map with a less complex visual. The map should feature an organic pattern of ](https://hackmd.io/_uploads/BykfkWPOT.jpg)
+![Treescape Mockup User Interface](https://hackmd.io/_uploads/rJ16vJbGR.jpg)
+
 
 ### Conclusion
 Treescape represents a groundbreaking initiative in regenerative agroforestry, offering a scalable, accessible, and innovative approach to environmental restoration and economic development. Through collaborative innovation and a commitment to sustainability, Treescape is not just planting trees but catalyzing a regenerative evolution for a future worth living.
+
+![Agroforestry for a Future Worth Living](https://hackmd.io/_uploads/BJiYtxwdT.jpg)
 
 #### Read more
 Check out the [Treescape Extensive Project Overview](https://hackmd.io/@dokkurbob/rkXWDWsJ0).
